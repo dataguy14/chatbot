@@ -3,7 +3,7 @@ import streamlit as st
 from openai import OpenAI
 
 # Hardcoded API Key (replace with your actual NVIDIA API key)
-API_KEY = "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"
+API_KEY = "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"
 
 # Initialize client
 def init_client(api_key):
